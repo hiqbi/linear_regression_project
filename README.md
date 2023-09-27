@@ -1,13 +1,7 @@
 # SD-TSIA204
 **Statistics : Linear Models & OLS (Ordinary Least Squares).**
 
-## TP1 : Linear regression
-
-Statistical testing
-
-Confidence/Prediction intervals
-
-## TP2 : Linear regression
+## Project : Linear regression
 
 Data preprocessing
 
